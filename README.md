@@ -2,6 +2,7 @@
 
 ## Simple Interest Calculator App
 
+This is a simple interest calculator project.
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
